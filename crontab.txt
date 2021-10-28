@@ -1,0 +1,2 @@
+*/1 * * * * date >> /home/ubuntu/cron/logs/date.log
+*/10 * * * * python3 /home/ubuntu/batch.py
